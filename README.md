@@ -1,10 +1,9 @@
 ## Hi there👋, my name is Filipe
 
-<div id="badges">
-  <a [linkedin](https://www.linkedin.com/in/filipeplopes/)="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/filipeplopes"
 
 🙋‍♂️ About me
 
