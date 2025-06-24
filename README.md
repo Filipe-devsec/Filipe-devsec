@@ -1,5 +1,7 @@
 ## Hi there👋, my name is Filipe Lopes
 
+[LinkedIn](https://www.linkedin.com/in/filipeplopes/)
+
 🙋‍♂️ About me
 
 Just a guy from Portugal, trying to level up in IT - One script and one mistake at a time.
