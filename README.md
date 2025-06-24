@@ -1,17 +1,6 @@
 ## Hi there👋, my name is Filipe
 
-<div id="badges">
-  <a [LinkedIn](https://www.linkedin.com/in/filipeplopes/)>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
+[LinkedIn](https://www.linkedin.com/in/filipeplopes/)
 
 🙋‍♂️ About me
 
@@ -24,7 +13,7 @@ Huuuge fan of coffee, command lines and FC Porto 💙🤍
 This repository is my learning playground for random experiments, broken code, and some progress along the way!
 
 
-[LinkedIn](https://www.linkedin.com/in/filipeplopes/)
+
 
 
 <!--
