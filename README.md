@@ -3,6 +3,7 @@
 🙋‍♂️ About me
 
 Just a guy from Portugal, trying to level up in IT - One script and one mistake at a time.
+
 I'm currently working in IT Support, aiming to dive deeper into cybersecurity and programming.
 
 Huuuge fan of coffee, command lines and FC Porto 💙🤍
