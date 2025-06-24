@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there👋, my name is Filipe Lopes
+
+🙋‍♂️ About me
+
+Just a guy from Portugal, trying to level up in IT - One script and one mistake at a time.
+I'm currently working in IT Support, aiming to dive deeper into cybersecurity and programming.
+
+Huuuge fan of coffee, command lines and FC Porto 💙🤍
+
+This repository is my learning playground for random experiments, broken code, and some progress along the way!
+
 
 <!--
 **Filipe-devsec/Filipe-devsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
