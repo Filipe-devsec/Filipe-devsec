@@ -10,7 +10,7 @@ I'm currently working in IT Support, aiming to dive deeper into cybersecurity an
 
 Huuuge fan of coffee, command lines and FC Porto 💙🤍
 
-This repository is my learning playground for random experiments, broken code, and some progress along the way!
+This repo is my playground for random experiments, broken code, and some progress along the way!
 
 
 
