@@ -1,6 +1,10 @@
-## Hi there👋, my name is Filipe Lopes
+## Hi there👋, my name is Filipe
 
-[LinkedIn](https://www.linkedin.com/in/filipeplopes/)
+<div id="badges">
+  <a https://www.linkedin.com/in/filipeplopes/="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 🙋‍♂️ About me
 
@@ -11,6 +15,9 @@ I'm currently working in IT Support, aiming to dive deeper into cybersecurity an
 Huuuge fan of coffee, command lines and FC Porto 💙🤍
 
 This repository is my learning playground for random experiments, broken code, and some progress along the way!
+
+
+[LinkedIn](https://www.linkedin.com/in/filipeplopes/)
 
 
 <!--
